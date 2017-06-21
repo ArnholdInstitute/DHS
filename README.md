@@ -11,6 +11,8 @@ Scripts to generate Postgres database out of DHS data.
 - [x] Democratic Republic of Congo
 - [x] Ghana
 - [x] Kenya
+- [x] Tanzania
+- [x] Uganda
 
 #### Central/South America
 
@@ -24,3 +26,19 @@ Scripts to generate Postgres database out of DHS data.
 - [x] Honduras
 - [x] Nicaragua
 - [x] Mexico
+
+#### Asia
+- [x] Afghanistan
+- [x] Bangladesh
+- [x] Cambodia
+- [x] India
+- [x] Indonesia
+- [x] Maldives
+- [x] Myanmar
+- [x] Nepal
+- [x] Pakistan
+- [x] Philippines
+- [x] Sri Lanka
+- [x] Thailand
+- [x] Timor-Leste
+- [x] Vietnam
